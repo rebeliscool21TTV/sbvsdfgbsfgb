@@ -1,0 +1,43 @@
+body {
+  background-color: #00ffb7;
+}
+
+h1 {
+  text-align: center;
+}
+h3 {background-color: #000000;
+	color: #00ffb7;
+	margin-right: 920px;
+}
+ul {
+    list-style-type: none;
+}
+#warpper { background-color: #000000;
+		   margin-right: 1500px;
+}
+h3 {color: #00ffb7;
+}
+aside { margin-left: 100px;
+		float: right;
+		margin-bottom: 1000px;
+}
+
+nav {text-align: center;
+}
+nav a { background-color: #000000;
+	    color: #00ffb7;
+		text-decoration: none;
+}
+
+#wapper  { background-color: #000000;
+		   margin-right: 650px;
+		   margin-left: 650px;
+		   
+}
+a {color: #00ffb7;
+   text-decoration: none;
+}
+
+#wapper { color:  #00ffb7;
+		  background-color: #000000; 
+}
